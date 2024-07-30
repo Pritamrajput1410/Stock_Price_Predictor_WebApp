@@ -13,12 +13,19 @@ Visual comparison of original vs. predicted stock prices.
 # Technical Details
 
 Data Collection: Utilizes yfinance to fetch historical stock data.
+
 Preprocessing: Handles missing values, uses adjusted close prices.
+
 Feature Engineering: Calculates moving averages (100, 200, 250 days) and percentage changes.
+
 Model: LSTM neural network built with Keras.
+
 Visualization: Uses matplotlib for plotting graphs.
+
 Web App: Developed with Streamlit for an interactive user interface.
+
 Deployment: Model saved and loaded for fast predictions.
+
 
 # How to Run
 
