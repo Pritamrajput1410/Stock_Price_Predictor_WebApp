@@ -64,7 +64,7 @@ pip install -r requirements.txt
 
 Run the Streamlit app:
 
-streamlit run app.py
+streamlit run web_stock_price_predictor.py
 
 Usage
 Enter the stock ticker symbol (e.g., GOOG) in the input box.
